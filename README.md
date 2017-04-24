@@ -12,7 +12,7 @@ update log:
 
 The list of suggestions I gathered from three peer review feedbacks by rank of frequency and importance.
 
-> Fix the slider widget for my boxplot/scatterplot tab. The slider widget for the scatterplot of state vs earnings is misleading. The 0 value on the slider should probably show no schools, and maybe just have a checkbox for “show all schools”. The increments of school filtering is a little too specific. Differences between 450 and 500 school are not significant. You could instead use increments of 100 or even 200. (Fran and Kai mentioned this issue)
+> Fix the slider widget for my boxplot/scatterplot tab. The slider widget for the scatterplot of state vs earnings is misleading. The 0 value on the slider should probably show no schools, and maybe just have a checkbox for â€œshow all schoolsâ€. The increments of school filtering is a little too specific. Differences between 450 and 500 school are not significant. You could instead use increments of 100 or even 200. (Fran and Kai mentioned this issue)
 
 The most important design feature I must address is the slider widget for my scatterplot. It caused a lot of confusion among users. I would consider this widget as a bad design that compromised usability. The slider widget is intuitive when its max and min are clearly defined. ie. 0 for no school showing and 500 for top 500 schools showing. My original design has 0 for all school and 500 for top 500 schools. I did it this way to minimize the clutter of the sidebar but I tried to combine two functionalities into one widget. It did not work.
 
@@ -26,7 +26,7 @@ I would like to thank Kai for pointing it out. I wanted to have number of bins i
 
 > Add more variables/predictors (Subi and Kai)
 
-In previous edition, I was debating if I could include more predictors/variables. I decided to drop many other important variables because I did not find them useful in answering the questions after interviewing some possible users. After discussing with Subi, I realized that some of the useful variables were present in the nano.csv instead of the original .csv file. I will incorporate more variables for lab 4.
+In previous edition, I was debating if I could include more predictors/variables. I decided to drop many other important variables because I did not find them useful in answering the questions after interviewing some possible users. After discussing with Subi, I realized that some of the useful variables were present in the nano.csv instead of the original .csv file. I will incorporate more variables for this update.
 
 > Boxplot/table tab is too busy and users are not sure if all the states are present in the boxplot below. (Fran and Kai)
 

@@ -3,6 +3,7 @@ a visualization exercise using R Shiny app
 
 This project is to create an interactive shiny app with the provided College Scorecard dataset from the US Board of Education, allowing the user to explore this dataset with the intent of identifying which attributes are predictors of educational success or failure.
 
+Please note that this shiny app is not yet optimized for mobile users.
 Link to shiny app: https://peter0083.shinyapps.io/collegevizmk2/
 
 update log:
